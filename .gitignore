@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.callboard
+.callboard.before-toml
+.claude
+CLAUDE.md
+
+# (the files Plex Cache had in dev/ before the split, kept until you delete them)
+.from-plexcache/
